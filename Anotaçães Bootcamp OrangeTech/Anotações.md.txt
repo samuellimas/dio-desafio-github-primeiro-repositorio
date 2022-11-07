@@ -1,0 +1,31 @@
+Bootcamp Nivél Basico
+
+
+Desenvolvimento Moderno de Software
+
+Temas tratados 
+
+Sistema desktop
+Sistema web
+Aplicações móveis 
+
+Ux Design
+Ui Design
+Back end
+Front end
+QA quality assurance
+Infraestrutura
+Nuvem pública
+Nuvem privada
+Profissional de Cloud computing
+
+Introdução a Programação e Pensamento Computacional
+
+Temas
+
+pensamento computacional
+recursos computacionais e habilidades humanas
+lógica
+
+
+

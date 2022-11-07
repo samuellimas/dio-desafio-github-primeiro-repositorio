@@ -1,0 +1,73 @@
+Link para dowload do Git: https://git-scm.com/downloads
+
+Git é um Sistema Distribuido e Seguro.
+O Git Bash é o um terminal extendido para otimizar o uso do GIt.
+
+Git: Softaware de Versionamento de Código
+
+GitHub: Plataforma de Hospedagem de Código-Fonte
+
+
+
+Beneficios Git/GitHub
+1- Controle de versão
+2- Armazenamento em nuvem
+3- Trabalho em equipe
+4- Melhorar seu código
+5- Reconhecimento
+
+
+
+Comandos Basicos do sistema Operacional Windows(Terminal)
+
+dir : traz a lista de diretório dentro da pasta
+cd / : navegar entre as pastas
+cd .. : retroceder um passo anterior
+cls : limpar o terminal do windows
+tab : auto completar (atalho do teclado)
+mkdir : criar uma pasta
+del : deletar arquivos
+rmdir : deleta a pasta e todos os seus arquivos
+
+
+Comandos Basicos do sistema Operacional Linux(Terminal)
+
+ls : traz a lista de diretório dentro da pasta
+cd / : navegar entre as pastas
+cd .. : retroceder um passo anterior
+clear : limpar o terminal ou atalho no teclado ( ctrl + L )
+tab : auto completar (atalho do teclado)
+mkdir : criar uma pasta
+rm : deletar arquivos na pasta
+rm -rf : deleta a pasta e todos os seus arquivos
+
+
+Entendendo o Git
+
+*SHA 1 : Secure Hash Algorithm (Algoritmo de Hash seguro) conjunto de funções hash criptográficas projetadas pela NSA.
+conjunto de caracteres identificador de 40 dígitos.
+
+Objetos Fundamentais
+
+*blob 
+*tree 
+*commit 
+
+
+Comandos Mais Usados No Git
+
+git init
+git clone
+git add
+git commit
+git log
+git diff
+git show
+git status
+git push
+git pull
+git branch
+git checkout
+git merge
+git reset
+
