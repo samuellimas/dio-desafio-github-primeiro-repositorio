@@ -1,4 +1,4 @@
-Link para dowload do Git: https://git-scm.com/downloads
+Link para download do Git: https://git-scm.com/downloads
 
 Git é um Sistema Distribuido e Seguro.
 O Git Bash é o um terminal extendido para otimizar o uso do GIt.
